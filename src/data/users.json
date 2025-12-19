@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1766100642150,
+    "nome": "Camaleao",
+    "email": "aaaa@gmail.com",
+    "password": "senha123"
+  },
+  {
+    "id": 1766100661680,
+    "nome": "Pedrinho",
+    "email": "bbbbb@gmail.com",
+    "password": "senha1221213"
+  },
+  {
+    "id": 1766174148759,
+    "nome": "Pedrinho",
+    "email": "bbbbb@gmail.com",
+    "password": "senha1221213"
+  },
+  {
+    "id": 1766177061097,
+    "nome": "Armando",
+    "email": "armando@gmail.com",
+    "password": "123"
+  }
+]
